@@ -1,6 +1,8 @@
 {
     "users": [
-      { "id": 1, "name": "Pablo", "email": "pablo@email.com", "senha":"123456" },
-      { "id": 2, "name": "José", "email": "jose@email.com", "senha":"123456" }
+      { "id": 1, "name": "Gabriela", "email": "gabriela@email.com", "senha":"123456" },
+      { "id": 2, "name": "Maria", "email": "maria@email.com", "senha":"123456" },
+      { "id": 3, "name": "Marcela", "email": "marcela@email.com", "senha":"123456" },
+      { "id": 4, "name": "Joana", "email": "joana@email.com", "senha":"123456" }
     ]
 }
